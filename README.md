@@ -1,6 +1,8 @@
 # College-ERP
 A college management system built using Django framework. It is designed for interactions between students and teachers. Features include attendance, marks and time table.
 
+Developed by PARAG JAIN 
+Modified/practiced by PARAG JAIN
 ## Installation
 
 Python and Django need to be installed
@@ -45,7 +47,7 @@ The admin page is used to modify all tables such as Students, Teachers, Departme
 
 **For more details regarding the system and features please refer the reports included.**
 
-## Update (29/11/2020)
+## Update (29/11/2024)
 
 Added method to reset attendance time range in Django Admin page.
 
